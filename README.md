@@ -1,1 +1,1 @@
-# Lithology-Classification-using-Neural-Networks
+# Lithology Classification using the FORCE 2020 Dataset using Machine Learning and Neural Networking
